@@ -1,3 +1,4 @@
+./mpt "жизнь должника"
 <div align="center">
 
 # MoneyPrinterTurbo 💸
